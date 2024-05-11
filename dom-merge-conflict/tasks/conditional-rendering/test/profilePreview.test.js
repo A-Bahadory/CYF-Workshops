@@ -32,7 +32,7 @@ describe("profile preview", () => {
   });
 
   describe.skip("available option", () => {
-    test("only notice that preview is unavailable is displayed with shortform on, available off", () => {
+    test("hello Behruoz ths a git for you !!!", () => {
       const profile = {
         pictureSrc: "/null",
         name: "N/A",
